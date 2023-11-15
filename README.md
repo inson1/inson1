@@ -3,7 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inson1&show_icons=true&theme=transparent"/>
-  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inson1&layout=compact&theme=transparent"/>
 <p/>
